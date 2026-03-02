@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>
+            my web page
+        </title>
+    </head>
+    <body>
+        <header>
+            <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>contact</li>
+            </ul>
+        </header>
+        </nav>
+        <h1>Maison Aurelle</h1>
+    <hr>
+    <section>
+    <h2> About </h2>
+    <p>
+        Maison Aurelle is a modern fashion house built on the belief<br> 
+        that style is more than clothing — it is identity, confidence,<br>
+        and self-expression. Founded with a passion for timeless elegance<br>
+        and contemporary design, Maison Aurelle creates pieces that embody<br>
+        sophistication, strength, and individuality.<br>
+    </p>
+    <p>
+        At Maison Aurelle, we blend classic craftsmanship with modern aesthetics to produce<br>
+        collections that are refined yet bold. Every fabric is carefully selected,<br> 
+        every stitch thoughtfully placed, and every silhouette designed to empower <br>
+        the wearer. Our goal is simple: to create fashion that feels luxurious, effortless, <br>
+        and unforgettable.
+    </p>
+    </section>
+    </body>
+</html>

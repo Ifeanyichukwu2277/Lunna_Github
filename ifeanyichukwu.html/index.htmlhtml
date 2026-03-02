@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>
+            my Css.practice
+
+        </title>
+        
+
+        <h1 style ="color:purple; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size:16px;"> my name is Ifeanyichukwu joshua </h1>
+
+
+        <link rel="stylesheet" href="style.css">
+        <h2> my personality...You are a growth-driven, faith-centered, tech-ambitious learner. It’s not me — it’s ChatGPT</h2>
+
+        <h6> my personality...You are a growth-driven, faith-centered, tech-ambitious learner</h6>
+        <style>
+        
+            h6{
+                color:rgb(152, 20, 42);
+                font-size: 16px;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+            </style>
+
+        </head>
+
+        <body>
+            <link rel="stylesheet" href="style.css">
+
+            <style>
+
+            .lorem1{
+                color:blue;
+                font-size:16px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+            }
+            </style>
+
+            <p class="lorem1">i am an introvert </p>
+            <p class="lorem1">IN MY CONTROL... my emotions, my boundaries, my reponse, my energy</p>
+            <p class="lorem1">What people say about meeeee..... ohhh does it matter?</p>
+            <p class="lorem1">i am still healing i will share my story when i can</p>
+            <p class="lorem1"> even consistency self hard </p>
+    
+
+        </body>
+    
+
+        
+</html>
